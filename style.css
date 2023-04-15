@@ -130,12 +130,16 @@ a {
 #motivacional {
     width: auto;
     height: 250px;
+    
 }
 #texto {
-    width: 800px;
+    width: 900px;
     margin: 0 auto;
     font-size: 0.6em;
-    padding: 15px;
+    padding: 20px;
+    color: #000;
+    border: 1px solid rgb(73, 87, 59);
+    border-radius: 15px;
 }
 #texto h1 {
     margin-top: 30px;
